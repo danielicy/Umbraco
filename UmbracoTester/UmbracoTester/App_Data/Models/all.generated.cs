@@ -6,7 +6,7 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "41ecba14f5f73ed7")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "e6498c929a5fcef0")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
 
 
@@ -756,7 +756,7 @@ namespace Umbraco.Web.PublishedModels
 		///</summary>
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.3")]
 		[ImplementPropertyType("contactForm")]
-		public string ContactForm => this.Value<string>("contactForm");
+		public object ContactForm => this.Value("contactForm");
 
 		///<summary>
 		/// Contact Form Header

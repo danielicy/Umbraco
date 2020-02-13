@@ -1,0 +1,4 @@
+Could not find any UmbracoForms licensing files in C:\Users\Devel\Documents\Workspace\Umbraco\UmbracoTester\UmbracoTester\bin:
+Could not find any UmbracoForms licensing files in C:\Users\Devel\Documents\Workspace\Umbraco\UmbracoTester\UmbracoTester\bin:
+Could not find any UmbracoForms licensing files in C:\Users\Devel\Documents\Workspace\Umbraco\UmbracoTester\UmbracoTester\bin:
+Could not find any UmbracoForms licensing files in C:\Users\Devel\Documents\Workspace\Umbraco\UmbracoTester\UmbracoTester\bin:
